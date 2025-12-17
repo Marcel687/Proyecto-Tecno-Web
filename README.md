@@ -54,7 +54,6 @@ PROYECTO-TEC-WEB
 │── README.md
 │── vite.config.js
 ```
-````
 
 ---
 
