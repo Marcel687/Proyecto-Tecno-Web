@@ -72,7 +72,7 @@ Contiene todos los componentes reutilizables de la aplicación:
 - **LocalesTable.vue**: Tabla dinámica para mostrar la lista de locales.
 - **LocalModal.vue**: Modal para registrar/editar información de locales.
 - **Navbar.vue**: Barra de navegación principal.
-- **PrecioPopup.vue**: Popup para mostrar o editar precios.
+- **PrecioPopup.vue**: Popup para mostrar o editar  precios.
 - **Productos.vue**: Sección mostrada dentro de locales para gestionar productos.
 - **SearchBar.vue**: Barra de búsqueda integrada para filtrado dinámico.
 - **ListaComentarios.vue**: Lista que permite ver los comentarios dejados por los usuarios.
