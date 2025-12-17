@@ -1,4 +1,3 @@
-````markdown
 # Proyecto Tecnologías Web I — Aplicación Web con Vue 3 + Vite
 
 **Autores:**
